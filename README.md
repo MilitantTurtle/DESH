@@ -7,8 +7,9 @@ This helps with that.
 
 It fingerprints intro music based on chapter start times, and presents a list of possible episode start chapters to split by, using mkvmerge to process the output.
 
-Currently Proof of Concept, only tested on 1 DVD so far, does not work on episodes with cold opens, outro music may throw off the script, give it a try and let me know.
+Currently Proof of Concept, only tested on 1 DVD so far, does not work on episodes with cold opens, outro music may throw off the script, but it should group by different music fingerprints, give it a try and let me know.
 
+____________________________________________________
 
 Usage:
 Copy autosplit.py to the folder where your mkv is.
