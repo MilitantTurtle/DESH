@@ -1,7 +1,7 @@
 # DESH
 DVD Episode Splitter Helper
 
-You know when you rip a DVD boxset but the episodes are in one long file rather then per episode?
+You know when you rip a DVD boxset but the episodes are in one long file rather than per episode?
 
 This helps with that.
 
