@@ -14,13 +14,14 @@ Open a commandline window in that folder.
 Type autosplit.py
 
 Requirements:
-Python
-
-mkvtoolnix in system path
+Python and mkvtoolnix in system path
 
 python requirements:
 
 numpy>=2.1.2
+
 scipy>=1.16.0
+
 librosa>=0.11.0
+
 lxml>=6.0.0
