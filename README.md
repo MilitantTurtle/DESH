@@ -13,8 +13,12 @@ ____________________________________________________
 
 Usage:
 Copy autosplit.py to the folder where your mkv is.
+
 Open a commandline window in that folder.
+
 Type autosplit.py
+
+____________________________________________________
 
 Requirements:
 Python and mkvtoolnix in system path
