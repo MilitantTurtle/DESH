@@ -15,9 +15,11 @@ Type autosplit.py
 
 Requirements:
 Python
+
 mkvtoolnix in system path
 
 python requirements:
+
 numpy>=2.1.2
 scipy>=1.16.0
 librosa>=0.11.0
